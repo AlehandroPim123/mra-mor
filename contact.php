@@ -111,8 +111,7 @@ jQuery(document).ready(function(){
       <p>Телефон: +7 (495) 055-53-53</p>
       <p>Телефон: +7 (926) 758-92-63</p>
             <p>E-mail: <a href="#">info@mra-mor.ru</a></p>
-			<p>E-mail: <a href="#">89267589263.ap@gmail.com</a></p>
-			<p>E-mail: <a href="#">dgulebars@mail.ru</a></p>
+			
 			
 			
       

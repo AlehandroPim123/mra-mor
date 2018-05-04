@@ -17,8 +17,7 @@
     <h2>8 (495) 055-53-53</h2></h2>
     <h2>8 (926) 758-92-63</h2></h2>
     <p>E-mail: <a href="#">info@mra-mor.ru</a></p>
-	<p>E-mail: <a href="#">89267589263.ap@gmail.com</a></p>
-	<p>E-mail: <a href="#">89267589263.ap@gmail.com</a></p>
+	
     </div>
     <p class="clr"></p>
   </div>
